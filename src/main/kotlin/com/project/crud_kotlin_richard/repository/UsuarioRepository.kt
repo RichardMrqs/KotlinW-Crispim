@@ -1,6 +1,6 @@
-package com.example.crudkotlin.repository
+package com.project.crud_kotlin_richard
 
-import com.example.crudkotlin.model.Usuario
+import com.project.crud_kotlin_richard.model.Usuario
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

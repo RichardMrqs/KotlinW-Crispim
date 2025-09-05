@@ -1,4 +1,4 @@
-package com.example.crudkotlin.model
+package com.project.crud_kotlin_richard
 
 import jakarta.persistence.*
 import jakarta.validation.constraints.NotNull

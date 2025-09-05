@@ -1,7 +1,7 @@
-package com.example.crudkotlin.controller
+package com.project.crud_kotlin_richard
 
-import com.example.crudkotlin.model.Pedido
-import com.example.crudkotlin.repository.PedidoRepository
+import com.project.crud_kotlin_richard.model.Pedido
+import com.project.crud_kotlin_richard.repository.PedidoRepository
 import jakarta.validation.Valid
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity

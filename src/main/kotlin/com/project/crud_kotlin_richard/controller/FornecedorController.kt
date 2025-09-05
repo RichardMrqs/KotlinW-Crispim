@@ -1,7 +1,7 @@
-package com.example.crudkotlin.controller
+package com.project.crud_kotlin_richard
 
-import com.example.crudkotlin.model.Fornecedor
-import com.example.crudkotlin.repository.FornecedorRepository
+import com.project.crud_kotlin_richard.model.Fornecedor
+import com.project.crud_kotlin_richard.repository.FornecedorRepository
 import jakarta.validation.Valid
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity

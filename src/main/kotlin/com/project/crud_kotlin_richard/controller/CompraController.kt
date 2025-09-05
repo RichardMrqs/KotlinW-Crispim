@@ -1,9 +1,9 @@
-package com.example.crudkotlin.controller
+package com.project.crud_kotlin_richard.controller
 
-import com.example.crudkotlin.model.Compra
-import com.example.crudkotlin.model.PedidoCompra
-import com.example.crudkotlin.repository.CompraRepository
-import com.example.crudkotlin.repository.PedidoCompraRepository
+import com.project.crud_kotlin_richard.model.Compra
+import com.project.crud_kotlin_richard.model.PedidoCompra
+import com.project.crud_kotlin_richard.repository.CompraRepository
+import com.project.crud_kotlin_richard.repository.PedidoCompraRepository
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
